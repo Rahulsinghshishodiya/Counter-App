@@ -1,0 +1,39 @@
+.App {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  text-align: center;
+  height: 100vh;
+}
+.check-list {
+  background-color: lightpink;
+  width: 400px;
+}
+.check-item {
+  font-size: 20px;
+  border-bottom: 1px solid;
+  padding: 5px;
+  margin: 2px;
+}
+.check-list input {
+  float: left;
+}
+.output-wraper {
+  font-size: 20px;
+  border-bottom: 1px solid;
+  padding: 5px;
+  margin: 2px;
+  background-color: aqua;
+}
+.all {
+  background-color: black;
+  margin-bottom: 10px;
+}
+.all input {
+  float: left;
+  margin-left: 12px;
+}
+.all button {
+  background-color: rgb(19, 144, 148);
+  font-size: large;
+}
